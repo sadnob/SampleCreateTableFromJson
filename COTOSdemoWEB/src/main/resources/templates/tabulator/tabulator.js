@@ -82,5 +82,7 @@ $(function() {
 		cheese : "Cheader"
 	}, ];
 
+
+	
 	$("#example-table").tabulator("setData", sampleData);
 });
